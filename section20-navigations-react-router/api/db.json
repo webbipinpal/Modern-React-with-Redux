@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Bipin",
+      "description": "Bipin Kumar",
+      "id": 1
+    },
+    {
+      "title": "Edit Title on edit page",
+      "description": "Edit Description on edit page",
+      "id": 2
+    },
+    {
+      "title": "New Create Stream title",
+      "description": "New Create Stream Description",
+      "userId": "102446809646989148443",
+      "id": 3
+    }
+  ]
+}
